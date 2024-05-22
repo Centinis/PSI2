@@ -1,0 +1,3 @@
+.Card:hover .Button {
+    visibility: visible;
+}
